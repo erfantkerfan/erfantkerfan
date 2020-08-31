@@ -3,7 +3,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erfantkerfan)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: 
-- [Telegram](tg://resolve?domain=erfantkerfan) t.me/erfantkerfan
+- [Telegram](https://t.me/erfantkerfan) t.me/erfantkerfan
 - [Twitter](https://twitter.com/erfantkerfan) twitter.com/erfantkerfan
 - [email:e-mail:](mailto:erfantkerfan@yahoo.com) erfantkerfan@yahoo.com
 
