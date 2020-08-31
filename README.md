@@ -3,9 +3,11 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erfantkerfan)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: 
-- Telegram: https://t.me/imanghafoori
-- Twitter: https://twitter.com/erfantkerfan
-- email: erfantkerfan@yahoo.com
+- [Telegram](https://t.me/erfantkerfan)
+- [Twitter](https://twitter.com/erfantkerfan)
+- [email](mailto:erfantkerfan@yahoo.com)
+- : 
+- : 
 
 <!--
 **erfantkerfan/erfantkerfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
