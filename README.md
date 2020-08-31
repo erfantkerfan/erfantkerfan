@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erfantkerfan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erfantkerfan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: 
 - [Telegram](https://t.me/erfantkerfan) t.me/erfantkerfan
