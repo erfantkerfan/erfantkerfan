@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 - [Telegram](https://t.me/erfantkerfan) t.me/erfantkerfan
 - [Twitter](https://twitter.com/erfantkerfan) twitter.com/erfantkerfan
-- [email:e-mail:](mailto:erfantkerfan@yahoo.com) erfantkerfan@yahoo.com
+- [email :e-mail:](mailto:erfantkerfan@yahoo.com) erfantkerfan@yahoo.com
 
 <!--
 **erfantkerfan/erfantkerfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
