@@ -10,7 +10,6 @@
 
 - 📫 How to reach me: 
 - [Telegram](https://t.me/erfantkerfan) t.me/erfantkerfan
-- [Twitter](https://twitter.com/erfantkerfan) twitter.com/erfantkerfan
 - [email :e-mail:](mailto:erfantkerfan@yahoo.com) erfantkerfan@yahoo.com
 
 <!--
