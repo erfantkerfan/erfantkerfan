@@ -5,8 +5,8 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=erfantkerfan alt=erfantkerfan /> Since October 2020</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erfantkerfan&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfantkerfan&layout=compact)](https://github.com/erfantkerfan)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erfantkerfan&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/erfantkerfan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfantkerfan&layout=compact&theme=dracula)](https://github.com/erfantkerfan)
 
 - 📫 How to reach me: 
 - [Telegram](https://t.me/erfantkerfan) t.me/erfantkerfan
